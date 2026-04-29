@@ -60,3 +60,11 @@ The data collected for this research follows to the terms and conditions of Stoc
 
 
 # StockEmotions
+## Team Names
+1. مصطفي سمير كامل     --  id 220100221
+2. احمد عيد محمد محمد  --  id 220100017
+3. منار بهاء حماد      --  id 220100229
+4. مريم خالد عويس طه   --  id 220100215
+5. الاء حسن عبد القادر  --  id 220100044
+
+## Github: https://github.com/MostafaSamirKamel/StockEmotions
